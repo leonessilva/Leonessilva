@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou Leones Silva 👋
 
-<!--
-**leonessilva/Leonessilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Ciência da Computação e estou em busca do meu primeiro estágio em TI.
 
-Here are some ideas to get you started:
+## Atualmente estou focado em:
+- Java e Programação Orientada a Objetos
+- SQL e Banco de Dados
+- Python para automação e lógica
+- Excel para organização e análise de dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em destaque
+- Projeto de automação em Python
+- Projeto de lógica e cadastro em Java
+- Consultas SQL para análise de dados
+- Projetos práticos voltados ao meu desenvolvimento na área de TI
+
+## Tecnologias
+Java | Python | SQL | Excel | Git | GitHub
+
+## Objetivo
+Busco uma oportunidade de estágio para aprender na prática, contribuir com o time e evoluir tecnicamente.
