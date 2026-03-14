@@ -1,21 +1,30 @@
 # Olá, eu sou Leones Silva 👋
 
-Sou estudante de Ciência da Computação e estou em busca do meu primeiro estágio em TI.
+Sou estudante de Ciência da Computação na UniFBV e estou em busca do meu primeiro estágio em TI.
 
-## Atualmente estou focado em:
-- Java e Programação Orientada a Objetos
-- SQL e Banco de Dados
-- Python para automação e lógica
-- Excel para organização e análise de dados
+Tenho focado meus estudos em projetos práticos para desenvolver minha base em programação, banco de dados, automação e análise de dados.
+
+## Áreas de interesse
+- Desenvolvimento Back-end
+- Banco de Dados
+- Automação
+- TI / Dados
+
+## Tecnologias que estudo
+- Java
+- Python
+- SQL
+- Excel
+- Git e GitHub
 
 ## Projetos em destaque
-- Projeto de automação em Python
-- Projeto de lógica e cadastro em Java
-- Consultas SQL para análise de dados
-- Projetos práticos voltados ao meu desenvolvimento na área de TI
-
-## Tecnologias
-Java | Python | SQL | Excel | Git | GitHub
+- Rastreador de preços em Python
+- Projetos de lógica e programação em Java
+- Práticas com SQL
+- Projetos voltados ao aprendizado e construção de portfólio
 
 ## Objetivo
-Busco uma oportunidade de estágio para aprender na prática, contribuir com o time e evoluir tecnicamente.
+Busco uma oportunidade de estágio para aprender na prática, contribuir com o time e evoluir profissionalmente na área de TI.
+
+## Contato
+- LinkedIn: https://www.linkedin.com/in/leones-silva-b89848245/
